@@ -14,6 +14,7 @@ public class CakeTycoon {
 		Scanner scanner = new Scanner(System.in);
 		
 		int t,p,f;
+		int cc;
 		
 		long n;
 		float c;
